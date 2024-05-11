@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Tasa de Cambio | Convert Divisa",
+        "description": "Aplicación de convertidor de divisas de paises latinoamericanos, realizado en html,css y vanilla Javascript",
+        "banner": "https://aisakk.github.io/json-repository/convert-divisa/convertDivisas.jpg",
+        "link": "https://aisakk.github.io/convert-divisa/"
+    },
+    {
+        "title": "Sistema gestion Documental",
+        "description": "Diseño y desarrollo de una aplicacion de gestion documental con la tecnologia python y web2py",
+        "banner": "https://aisakk.github.io/json-repository/pdvsa/petroleo.jpeg",
+        "link": "https://aisakk.github.io/json-repository/pdvsa/pantallas-intevep.pdf"
+    },
+    {
+        "title": "Diseños Figma",
+        "description": "Diseños UI realizados por mi",
+        "banner": "https://aisakk.github.io/json-repository/figma/figma.png",
+        "link": "https://www.figma.com/design/fECTjF7D3LFsp1j4qdzsim/Bitcoin-wallet?node-id=0%3A1&t=DuMa6ItpHG3okCvu-1"
+    },
+    {
+        "title": "Oasis",
+        "description": "Aplicación de cursos realizado en java, para una comunidad tecnologica, este fue mi proyecto de tesis, posdata: (solo diseño).",
+        "banner": "https://aisakk.github.io/json-repository/oasis/oasis.png",
+        "link": "https://aisakk.github.io/json-repository/oasis/pantallas-oasis.pdf"
+    },
+    {
+        "title": "Ideaxbox",
+        "description": "Diseño y desarrollo de una aplicacion web de reproductor de musica realizado en angular y photoshop",
+        "banner": "https://aisakk.github.io/json-repository/ideaxbox/ideaxbox.png",
+        "link": "https://aisakk.github.io/json-repository/ideaxbox/pantallas-ideaxbox.pdf"
+    },
+    {
+        "title": "Octonove",
+        "description": "Desarrollo frontend y backend en laravel para gestionar plugins para wordpress",
+        "banner": "https://aisakk.github.io/json-repository/octonove/banner.jpg",
+        "link": "https://aisakk.github.io/json-repository/octonove/octonove.mp4"
+    }
+]
