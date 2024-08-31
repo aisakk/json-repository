@@ -36,14 +36,14 @@
     },
     {
         "title": "Octonove",
-        "description": "Desarrollo frontend y backend en laravel para gestionar plugins para wordpress, en github plugins-laravel-wordpress",
+        "description": "Desarrollo frontend y backend en laravel para gestionar plugins para wordpress, en github pueden encontrarlo como  plugins-laravel-wordpress",
         "banner": "https://aisakk.github.io/json-repository/octonove/banner.jpg",
         "link": "https://aisakk.github.io/json-repository/octonove/octonove.mp4",
         "className": "filter-web"
     },
     {
         "title": "Global Tecnology Academy",
-        "description": "Desarrollo de una aplicacion web de un CRUD y Busqueda con Angular y Laravel, en github angular laravel",
+        "description": "Desarrollo de una aplicacion web de un CRUD y Busqueda con Angular y Laravel, en github pueden encontrarlo como angular laravel",
         "banner": "https://aisakk.github.io/json-repository/global-academy/angular.jpg",
         "link": "https://aisakk.github.io/json-repository/global-academy/angular-laravel.webm",
         "className": "filter-web"
