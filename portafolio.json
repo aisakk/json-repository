@@ -1,5 +1,12 @@
 [
     {
+        "title": "Chatbot Whatsapp",
+        "description": "Chatbot desarrollado con la api de builderbot para la empresa algesolutions",
+        "banner": "https://aisakk.github.io/json-repository/chatbot-whatsapp/whatsapp-image.webp",
+        "link": "https://aisakk.github.io/json-repository/chatbot-whatsapp/chatbot.mp4",
+        "className": "filter-web"
+    },
+    {
         "title": "Delivery Facturas",
         "description": "Aplicacion de gestion de facturas, comentarios y viajes realizados, hecho con laravel y vanilla javascript",
         "banner": "https://aisakk.github.io/json-repository/delivery/laravel.jpeg",
